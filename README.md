@@ -1,4 +1,4 @@
-# Username Check
+# Tiktok Clone
 This is an android application project made with Flutter as UI framework and Firebase as backend-as-a-service.
 
 <h3 align="left">Various repositories I have used here:</h3>
